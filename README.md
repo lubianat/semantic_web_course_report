@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/lubianat/semantic_web_course_report/tree/gh-pages) branch hosts the contents of this directory at <https://lubianat.github.io/semantic_web_course_report/>.
-The permalink for this webpage version is <https://lubianat.github.io/semantic_web_course_report/v/a70d9299da623a210517609fe57fd811f5d9a584/>.
+The permalink for this webpage version is <https://lubianat.github.io/semantic_web_course_report/v/ce5568927f905b82784df7fbdcd4a5e1e9ec0727/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://lubianat.github.io/semantic_web_course_report/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`a70d9299da623a210517609fe57fd811f5d9a584`](https://github.com/lubianat/semantic_web_course_report/commit/a70d9299da623a210517609fe57fd811f5d9a584).
+[`ce5568927f905b82784df7fbdcd4a5e1e9ec0727`](https://github.com/lubianat/semantic_web_course_report/commit/ce5568927f905b82784df7fbdcd4a5e1e9ec0727).
