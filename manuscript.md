@@ -4,7 +4,7 @@ author-meta:
 bibliography:
 - content/manual-references.json
 date-meta: '2020-12-07'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta name=\"citation_title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta property=\"og:title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta property=\"twitter:title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta name=\"dc.date\" content=\"2020-12-07\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-07\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/semantic_web_course_report/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/semantic_web_course_report/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/semantic_web_course_report/v/c4ae53f55f7ee6325ee1842b8c2712128d7d031a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/semantic_web_course_report/v/c4ae53f55f7ee6325ee1842b8c2712128d7d031a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/semantic_web_course_report/v/c4ae53f55f7ee6325ee1842b8c2712128d7d031a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta name=\"citation_title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta property=\"og:title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta property=\"twitter:title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta name=\"dc.date\" content=\"2020-12-07\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-07\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/semantic_web_course_report/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/semantic_web_course_report/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/semantic_web_course_report/v/2c6e100d0a2fedc85c11ad1c963df9607bbb601c/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/semantic_web_course_report/v/2c6e100d0a2fedc85c11ad1c963df9607bbb601c/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/semantic_web_course_report/v/2c6e100d0a2fedc85c11ad1c963df9607bbb601c/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - cell type
 - nomenclature
@@ -24,9 +24,9 @@ title: Releasing PanglaoDB human cell-type markers to Wikidata
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/semantic_web_course_report/v/c4ae53f55f7ee6325ee1842b8c2712128d7d031a/))
+([permalink](https://lubianat.github.io/semantic_web_course_report/v/2c6e100d0a2fedc85c11ad1c963df9607bbb601c/))
 was automatically generated
-from [lubianat/semantic_web_course_report@c4ae53f](https://github.com/lubianat/semantic_web_course_report/tree/c4ae53f55f7ee6325ee1842b8c2712128d7d031a)
+from [lubianat/semantic_web_course_report@2c6e100](https://github.com/lubianat/semantic_web_course_report/tree/2c6e100d0a2fedc85c11ad1c963df9607bbb601c)
 on December 7, 2020.
 </em></small>
 
@@ -144,7 +144,32 @@ As explained in the method session
 
 ## SPARQL query for cell types related to neurogenesis
 
-The integration with Wikidata enables SPARQL queries. 
+Now that the PanglaoDB is released as Linked Open Data, we can make queries that were not possible before.Thanks to other reconciliation projects, Wikidata contains already information about genes, including their relations to Gene Ontology terms.
+The PanglaoDB integration to the Wikidata ecosystem allows us to ask questions like:
+
+- "Which human cell types are related to neurogenesis via their markers?"
+
+```
+SELECT ?geneLabel ?cellTypeLabel
+WHERE 
+{
+  ?protein wdt:P682 wd:Q1456827. # protein molecular process neurogenesis
+  ?protein wdt:P702 ?gene.       # protein encoded by gene
+  
+  {?gene wdt:P31 wd:Q277338.}    # gene is an instance of a pseudogene 
+  UNION                          # or
+  {?gene wdt:P31 wd:Q7187.}      # gene is an instance of a gene
+  ?gene wdt:P703 wd:Q15978631.   # gene is found in taxon Homo sapiens
+  
+  ?cellType wdt:P8872 ?gene.     # cell type has marker gene
+  
+  ?cellType rdfs:label ?cellTypeLabel.
+  ?gene   rdfs:label ?geneLabel.
+
+  FILTER(LANG(?cellTypeLabel) = "en")
+  FILTER(LANG(?geneLabel) = "en")
+
+```
 
 <div class="is-hidden" id="three-tab-content">
 <h5 class="title is-5" style="text-align:center;"> Query for cell types related to neurogenesis </h5>
@@ -155,6 +180,69 @@ The integration with Wikidata enables SPARQL queries.
 </div>
 </div>
 
+- "Which cell types express markers associated to Parkinson`s disease?"
+
+```
+SELECT ?cellTypeLabel ?geneLabel ?diseaseLabel 
+WHERE 
+{
+  wd:Q11085 wdt:P2293 ?diseaseGene.  # Parkinson's disease --> genetic association --> gene
+  ?cellType wdt:P8872 ?diseaseGene. # Cell type --> has marker --> gene
+  
+  ?cellType rdfs:label ?cellTypeLabel.
+  wd:Q11085 rdfs:label ?diseaseLabel.
+  ?diseaseGene   rdfs:label ?geneLabel.
+
+  FILTER(LANG(?cellTypeLabel) = "en")
+  FILTER(LANG(?diseaseLabel) = "en")
+  FILTER(LANG(?geneLabel) = "en")
+}
+
+```
+<div class="is-hidden" id="three-tab-content">
+<h5 class="title is-5" style="text-align:center;"> Query for cell types related to Parkinson's disease </h5>
+<div class="columns is-centered">
+<p style="text-align: center">
+<iframe width=92% height="500" src="https://query.wikidata.org/embed.html#SELECT%20%3FcellTypeLabel%20%3FgeneLabel%20%3FdiseaseLabel%20%0AWHERE%20%0A%7B%0A%20%20wd%3AQ11085%20wdt%3AP2293%20%3FdiseaseGene.%20%20%23%20Parkinson%27s%20disease%20--%3E%20genetic%20association%20--%3E%20gene%0A%20%20%3FcellType%20wdt%3AP8872%20%3FdiseaseGene.%20%23%20Cell%20type%20--%3E%20has%20marker%20--%3E%20gene%0A%20%20%0A%20%20%3FcellType%20rdfs%3Alabel%20%3FcellTypeLabel.%0A%20%20wd%3AQ11085%20rdfs%3Alabel%20%3FdiseaseLabel.%0A%20%20%3FdiseaseGene%20%20%20rdfs%3Alabel%20%3FgeneLabel.%0A%0A%20%20FILTER%28LANG%28%3FcellTypeLabel%29%20%3D%20%22en%22%29%0A%20%20FILTER%28LANG%28%3FdiseaseLabel%29%20%3D%20%22en%22%29%0A%20%20FILTER%28LANG%28%3FgeneLabel%29%20%3D%20%22en%22%29%0A%7D"></iframe>
+</p>
+</div>
+</div>
+
+- Which diseases are associated with the markers of pancreatic beta cells?
+
+```
+SELECT ?cellTypeLabel ?diseaseLabel 
+(COUNT(DISTINCT ?diseaseGene) AS ?count) 
+(GROUP_CONCAT(DISTINCT ?geneLabel; SEPARATOR=", ") AS ?genes)
+WHERE 
+{
+  wd:Q101405087 wdt:P8872 ?diseaseGene .    # human pancreatic beta cell -->  has marker -->  gene
+  ?disease wdt:P2293 ?diseaseGene .         # disease --> genetic association --> gene
+  
+  wd:Q101405087 rdfs:label ?cellTypeLabel .
+  ?disease rdfs:label ?diseaseLabel .
+  ?diseaseGene   rdfs:label ?geneLabel .
+
+  FILTER(LANG(?cellTypeLabel) = "en")
+  FILTER(LANG(?diseaseLabel) = "en")
+  FILTER(LANG(?geneLabel) = "en")
+  
+ }
+
+GROUP BY ?diseaseLabel ?cellTypeLabel ORDER BY DESC(?count)
+
+```
+
+<div class="is-hidden" id="three-tab-content">
+<h5 class="title is-5" style="text-align:center;"> Query for cell types related to Parkinson's disease </h5>
+<div class="columns is-centered">
+<p style="text-align: center">
+<iframe width=92% height="500" src="https://query.wikidata.org/embed.html#SELECT%20%3FcellTypeLabel%20%3FdiseaseLabel%20%0A%28COUNT%28DISTINCT%20%3FdiseaseGene%29%20AS%20%3Fcount%29%20%0A%28GROUP_CONCAT%28DISTINCT%20%3FgeneLabel%3B%20SEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fgenes%29%0AWHERE%20%0A%7B%0A%20%20wd%3AQ101405087%20wdt%3AP8872%20%3FdiseaseGene%20.%20%20%20%20%23%20human%20pancreatic%20beta%20cell%20--%3E%20%20has%20marker%20--%3E%20%20gene%0A%20%20%3Fdisease%20wdt%3AP2293%20%3FdiseaseGene%20.%20%20%20%20%20%20%20%20%20%23%20disease%20--%3E%20genetic%20association%20--%3E%20gene%0A%20%20%0A%20%20wd%3AQ101405087%20rdfs%3Alabel%20%3FcellTypeLabel%20.%0A%20%20%3Fdisease%20rdfs%3Alabel%20%3FdiseaseLabel%20.%0A%20%20%3FdiseaseGene%20%20%20rdfs%3Alabel%20%3FgeneLabel%20.%0A%0A%20%20FILTER%28LANG%28%3FcellTypeLabel%29%20%3D%20%22en%22%29%0A%20%20FILTER%28LANG%28%3FdiseaseLabel%29%20%3D%20%22en%22%29%0A%20%20FILTER%28LANG%28%3FgeneLabel%29%20%3D%20%22en%22%29%0A%20%20%0A%20%7D%0A%0AGROUP%20BY%20%3FdiseaseLabel%20%3FcellTypeLabel%20ORDER%20BY%20DESC%28%3Fcount%29%0A%0A"></iframe>
+</p>
+</div>
+</div>
+
+# Discussion
 
 Linking biological with Wikidata allows out-of-the-box integrative SPARQL queries, as many biomedical ontologies and datasets have been already integrated to Wikidata, and are available in Wikidata's graph. Besides the well-known advantages of having data linked to the Linked Open Data cloud, the Wikidata integration provides user-friendly interfaces for the data. That includes both navigable html pages of classes and properties (e.g. https://www.wikidata.org/wiki/Q67801129) as well as an SPARQL Query Service with user-friendly modifications to ease queries for beginners (https://query.wikidata.org/) with helper pages for learning SPARQL (https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial) or even requesting queries (https://www.wikidata.org/wiki/Wikidata:Request_a_query).   
 
