@@ -4,7 +4,7 @@ author-meta:
 bibliography:
 - content/manual-references.json
 date-meta: '2020-12-07'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta name=\"citation_title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta property=\"og:title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta property=\"twitter:title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta name=\"dc.date\" content=\"2020-12-07\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-07\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/semantic_web_course_report/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/semantic_web_course_report/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/semantic_web_course_report/v/ae1b78f84198fe4f8eb13ed45ee402c53d15f5ca/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/semantic_web_course_report/v/ae1b78f84198fe4f8eb13ed45ee402c53d15f5ca/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/semantic_web_course_report/v/ae1b78f84198fe4f8eb13ed45ee402c53d15f5ca/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta name=\"citation_title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta property=\"og:title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta property=\"twitter:title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta name=\"dc.date\" content=\"2020-12-07\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-07\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/semantic_web_course_report/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/semantic_web_course_report/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/semantic_web_course_report/v/c4ae53f55f7ee6325ee1842b8c2712128d7d031a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/semantic_web_course_report/v/c4ae53f55f7ee6325ee1842b8c2712128d7d031a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/semantic_web_course_report/v/c4ae53f55f7ee6325ee1842b8c2712128d7d031a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - cell type
 - nomenclature
@@ -24,9 +24,9 @@ title: Releasing PanglaoDB human cell-type markers to Wikidata
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/semantic_web_course_report/v/ae1b78f84198fe4f8eb13ed45ee402c53d15f5ca/))
+([permalink](https://lubianat.github.io/semantic_web_course_report/v/c4ae53f55f7ee6325ee1842b8c2712128d7d031a/))
 was automatically generated
-from [lubianat/semantic_web_course_report@ae1b78f](https://github.com/lubianat/semantic_web_course_report/tree/ae1b78f84198fe4f8eb13ed45ee402c53d15f5ca)
+from [lubianat/semantic_web_course_report@c4ae53f](https://github.com/lubianat/semantic_web_course_report/tree/c4ae53f55f7ee6325ee1842b8c2712128d7d031a)
 on December 7, 2020.
 </em></small>
 
@@ -62,13 +62,14 @@ The OBO Foundry provides a rich collection of linked biological identifiers [@ur
 In this work, I created classes on Wikidata for human-specific cell types, as well as an object property for linking cell type classes to gene classes. Then, I proceeded to reconciled the human cell-type / marker relations on PanglaoDB to Wikidata , and uploaded the PanglaoDB dataset as Linked Open Data directly to Wikidata via its Application Programming Interface. Finally, I show how this upload now enables SPARQL queries to Wikidata's endpoint that extend the usefulness of the Panglao database. 
  
 
-# Data source
+# Methods
+## Data source
 
 The markers dataset was dowloaded manually from PanglaoDB's website (https://panglaodb.se/markers/PanglaoDB_markers_27_Mar_2020.tsv.gz). It contains 15 columns and 8256 rows. 
 
 For the scope of this work, only the columns `species`, `official gene symbol` and 	`cell type` were used. 
 
-# Property creation on Wikidata
+## Property creation on Wikidata
 
 To represent the cell-type --> marker property, I proposed a property for the Wikidata community. In Wikidata:Property proposal (https://www.wikidata.org/wiki/Wikidata:Property_proposal/has_positive_marker), I posted a message in 17th of November presenting the property, domain and range constraints, as well as additional comments. The html of the property proposal is reproduced below:
 
@@ -115,27 +116,27 @@ As there were 3 approvals and no objections, 10 days later one Wikidata Property
 
 <dd>@<a href="/wiki/User:TiagoLubiana" title="User:TiagoLubiana"><bdi>TiagoLubiana</bdi></a>, <a href="/wiki/User:Jvcavv" title="User:Jvcavv"><bdi>Jvcavv</bdi></a>, <a href="/w/index.php?title=User:Bmeldal&amp;action=edit&amp;redlink=1" class="new" title="User:Bmeldal (page does not exist)"><bdi>Bmeldal</bdi></a>, <a href="/wiki/User:Tinker_Bell" title="User:Tinker Bell"><bdi>Tinker Bell</bdi></a>: <img alt="✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="✓" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600"><b>&nbsp;Done</b> <a href="/wiki/Property:P8872" title="Property:P8872">has marker <small>(P8872)</small></a> <a href="/wiki/User:Pamputt" title="User:Pamputt">Pamputt<span class="adminMark"> (A)</span></a> (<a href="/wiki/User_talk:Pamputt" title="User talk:Pamputt"><span class="signature-talk">talk</span></a>) 07:24, 27 November 2020 (UTC)</dd>
 
-# Class creation on Wikidata
+## Class creation on Wikidata
 
 Different from property creation, class creation on Wikidata does not require community approval, and any user can create new classes and add statements. 
 
 Species-neutral cell types were already mostly present on Wikidata. Human-specific cell types were created for each human-specific cell type mentioned in PanglaoDB. Class labels and subclass of statements(https://www.wikidata.org/wiki/Q21514624) were added to a spreadsheet and uploaded to Wikidata via the batch edition tool Quickstatements (https://quickstatements.toolforge.org/#/)
 
-# Integration to Wikidata 
+## Integration to Wikidata 
 
 The reconciled dataset was uploaded to Wikidata via the Wikidata Integrator python package (https://github.com/SuLab/WikidataIntegrator), a wrapper for the Wikidata Application Programming Interface. The details of the integration can be seen in the accompanying Jupyter notebook. 
 
-# Access to reconciled data
+## Access to reconciled data
 
-## Wikidata dumps
+### Wikidata dumps
 
 Wikidata provides regular dumps in a variety of formats, including RDF dumps: https://www.wikidata.org/wiki/Wikidata:Database_download. It is possible to also download partial dumps of the database with reduced size (ex: https://wdumps.toolforge.org/dump/987 for all cell types with the has_marker property)   
 
-## SPARQL queries
+### SPARQL queries
 
 Besides the Wikidata Dumps, Wikidata provides an SPARQL endpoint with a Graphical User Interface (https://query.wikidata.org/). Updated data was immediately accessible via this endpoint, enabling integrative queries integrated with other database statements.
 
-# Results of the integration
+# Results
 
 As explained in the method session
 
@@ -165,7 +166,7 @@ This work exemplifies the power of releasing Linked Open Data via Wikidata, and 
 
 # Acknowledgements
 
-This work has been done within the scope of a slightly larger ongoing project in a collaboration with João Vitor Ferreira Cavalcante available at https://github.com/jvfe/wikidata_panglaodb/. 
+This work has been done within the scope of a slightly larger ongoing project ([https://github.com/jvfe/wikidata_panglaodb](https://github.com/jvfe/wikidata_panglaodb)) in a collaboration with João Vitor Ferreira Cavalcante. 
 
 This work has been supported by grant #2019/26284-1, São Paulo Research Foundation (FAPESP).
 

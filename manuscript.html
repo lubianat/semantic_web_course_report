@@ -45,9 +45,9 @@
   <meta name="citation_fulltext_html_url" content="https://lubianat.github.io/semantic_web_course_report/" />
   <meta name="citation_pdf_url" content="https://lubianat.github.io/semantic_web_course_report/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/semantic_web_course_report/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/semantic_web_course_report/v/ae1b78f84198fe4f8eb13ed45ee402c53d15f5ca/" />
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/semantic_web_course_report/v/ae1b78f84198fe4f8eb13ed45ee402c53d15f5ca/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/semantic_web_course_report/v/ae1b78f84198fe4f8eb13ed45ee402c53d15f5ca/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/semantic_web_course_report/v/c4ae53f55f7ee6325ee1842b8c2712128d7d031a/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/semantic_web_course_report/v/c4ae53f55f7ee6325ee1842b8c2712128d7d031a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/semantic_web_course_report/v/c4ae53f55f7ee6325ee1842b8c2712128d7d031a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://lubianat.github.io/semantic_web_course_report/v/ae1b78f84198fe4f8eb13ed45ee402c53d15f5ca/">permalink</a>)
+(<a href="https://lubianat.github.io/semantic_web_course_report/v/c4ae53f55f7ee6325ee1842b8c2712128d7d031a/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/lubianat/semantic_web_course_report/tree/ae1b78f84198fe4f8eb13ed45ee402c53d15f5ca">lubianat/semantic_web_course_report@ae1b78f</a>
+from <a href="https://github.com/lubianat/semantic_web_course_report/tree/c4ae53f55f7ee6325ee1842b8c2712128d7d031a">lubianat/semantic_web_course_report@c4ae53f</a>
 on December 7, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -84,10 +84,11 @@ Department of Clinical and Toxicological Analyses, School of Pharmaceutical Scie
 Despite its usefulness for the community, the database is only on a 3-star category for Linked Open Data <span class="citation" data-cites="OGXYtGZ8">[<a href="#ref-OGXYtGZ8" role="doc-biblioref">3</a>]</span> as it does not use open standards from W3C (RDF and SPARQL). To make it 5-star, it needs to be also linked to external data via common identifiers.</p>
 <p>The OBO Foundry provides a rich collection of linked biological identifiers <span class="citation" data-cites="B9Ej2xAj">[<a href="#ref-B9Ej2xAj" role="doc-biblioref">4</a>]</span>. However, reconciliation to OBO is challenging, as there are many ontologies, each with slightly different contribution guidelines. For that reason, we decided to reconcile PanglaoDB to Wikidata, which allows simple creation of new terms, provided they follow Wikidata`s notability criteria<span class="citation" data-cites="RYLtL50O">[<a href="#ref-RYLtL50O" role="doc-biblioref">5</a>]</span>.</p>
 <p>In this work, I created classes on Wikidata for human-specific cell types, as well as an object property for linking cell type classes to gene classes. Then, I proceeded to reconciled the human cell-type / marker relations on PanglaoDB to Wikidata , and uploaded the PanglaoDB dataset as Linked Open Data directly to Wikidata via its Application Programming Interface. Finally, I show how this upload now enables SPARQL queries to Wikidata’s endpoint that extend the usefulness of the Panglao database.</p>
-<h1 id="data-source">Data source</h1>
+<h1 id="methods">Methods</h1>
+<h2 id="data-source">Data source</h2>
 <p>The markers dataset was dowloaded manually from PanglaoDB’s website (https://panglaodb.se/markers/PanglaoDB_markers_27_Mar_2020.tsv.gz). It contains 15 columns and 8256 rows.</p>
 <p>For the scope of this work, only the columns <code>species</code>, <code>official gene symbol</code> and <code>cell type</code> were used.</p>
-<h1 id="property-creation-on-wikidata">Property creation on Wikidata</h1>
+<h2 id="property-creation-on-wikidata">Property creation on Wikidata</h2>
 <p>To represent the cell-type –&gt; marker property, I proposed a property for the Wikidata community. In Wikidata:Property proposal (https://www.wikidata.org/wiki/Wikidata:Property_proposal/has_positive_marker), I posted a message in 17th of November presenting the property, domain and range constraints, as well as additional comments. The html of the property proposal is reproduced below:</p>
 <div class="property-navibox" dir="ltr">
 <style data-mw-deduplicate="TemplateStyles:r1021077283">.mw-parser-output .property-navibox{background-color:#dff;border:3px solid #cddddd}.mw-parser-output .property-navibox-header{background-color:#dff;outline:3px solid #cddddd;padding:4px}.mw-parser-output .property-navibox-links{float:right;margin:0}.mw-parser-output .property-navibox-links li{display:inline;margin:0}.mw-parser-output .property-navibox-links li:after{display:inline;content:" – "}.mw-parser-output .property-navibox-links li:last-child:after{content:none}.mw-parser-output .property-navibox-main{overflow-x:auto}.mw-parser-output .property-navibox table{display:table;overflow-x:visible}.mw-parser-output .property-navibox-main tr{vertical-align:text-top}.mw-parser-output .property-navibox-main th{width:20%}.mw-parser-output .property-navibox[dir="ltr"] .property-navibox-main th{text-align:left}.mw-parser-output .property-navibox[dir="rtl"] .property-navibox-main th{text-align:right}</style>
@@ -261,17 +262,17 @@ Some cell types are marked by absence of expression of genes/proteins/protein ex
 <dd>
 @<a href="/wiki/User:TiagoLubiana" title="User:TiagoLubiana"><bdi>TiagoLubiana</bdi></a>, <a href="/wiki/User:Jvcavv" title="User:Jvcavv"><bdi>Jvcavv</bdi></a>, <a href="/w/index.php?title=User:Bmeldal&amp;action=edit&amp;redlink=1" class="new" title="User:Bmeldal (page does not exist)"><bdi>Bmeldal</bdi></a>, <a href="/wiki/User:Tinker_Bell" title="User:Tinker Bell"><bdi>Tinker Bell</bdi></a>: <img alt="✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="✓" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600"><b> Done</b> <a href="/wiki/Property:P8872" title="Property:P8872">has marker <small>(P8872)</small></a> <a href="/wiki/User:Pamputt" title="User:Pamputt">Pamputt<span class="adminMark"> (A)</span></a> (<a href="/wiki/User_talk:Pamputt" title="User talk:Pamputt"><span class="signature-talk">talk</span></a>) 07:24, 27 November 2020 (UTC)
 </dd>
-<h1 id="class-creation-on-wikidata">Class creation on Wikidata</h1>
+<h2 id="class-creation-on-wikidata">Class creation on Wikidata</h2>
 <p>Different from property creation, class creation on Wikidata does not require community approval, and any user can create new classes and add statements.</p>
 <p>Species-neutral cell types were already mostly present on Wikidata. Human-specific cell types were created for each human-specific cell type mentioned in PanglaoDB. Class labels and subclass of statements(https://www.wikidata.org/wiki/Q21514624) were added to a spreadsheet and uploaded to Wikidata via the batch edition tool Quickstatements (https://quickstatements.toolforge.org/#/)</p>
-<h1 id="integration-to-wikidata">Integration to Wikidata</h1>
+<h2 id="integration-to-wikidata">Integration to Wikidata</h2>
 <p>The reconciled dataset was uploaded to Wikidata via the Wikidata Integrator python package (https://github.com/SuLab/WikidataIntegrator), a wrapper for the Wikidata Application Programming Interface. The details of the integration can be seen in the accompanying Jupyter notebook.</p>
-<h1 id="access-to-reconciled-data">Access to reconciled data</h1>
-<h2 id="wikidata-dumps">Wikidata dumps</h2>
+<h2 id="access-to-reconciled-data">Access to reconciled data</h2>
+<h3 id="wikidata-dumps">Wikidata dumps</h3>
 <p>Wikidata provides regular dumps in a variety of formats, including RDF dumps: https://www.wikidata.org/wiki/Wikidata:Database_download. It is possible to also download partial dumps of the database with reduced size (ex: https://wdumps.toolforge.org/dump/987 for all cell types with the has_marker property)</p>
-<h2 id="sparql-queries">SPARQL queries</h2>
+<h3 id="sparql-queries">SPARQL queries</h3>
 <p>Besides the Wikidata Dumps, Wikidata provides an SPARQL endpoint with a Graphical User Interface (https://query.wikidata.org/). Updated data was immediately accessible via this endpoint, enabling integrative queries integrated with other database statements.</p>
-<h1 id="results-of-the-integration">Results of the integration</h1>
+<h1 id="results">Results</h1>
 <p>As explained in the method session</p>
 <h2 id="sparql-query-for-cell-types-related-to-neurogenesis">SPARQL query for cell types related to neurogenesis</h2>
 <p>The integration with Wikidata enables SPARQL queries.</p>
@@ -287,7 +288,7 @@ Query for cell types related to neurogenesis
 <p>In addition to user-friendly data access systems, Wikidata makes it easy for users to contribute. This user-friendliness is specially important in the case of the biomedical sciences, where database curation is becoming increasingly challenging with the growth of scientific publications. Wikidata allows editions directly in the Graphical User Interface, which makes it acessible for domain experts with little to no experience with programming and formal ontological representations. The Wikidata community has developed wrappers for the API in web applications that further facilitate contribution, such as the Quickstatements tool (https://quickstatements.toolforge.org/#/) for general purpose statements. The python module Wikidata Integrator facilitates for python users to reconcile databases to Wikidata, and it has been used to build bots for several different biological databases [wikidata:Q87830400].</p>
 <p>This work exemplifies the power of releasing Linked Open Data via Wikidata, and provides the biomedical community with the first (to my knowledge) semantically accessible, 5-star LOD dataset. I hope that community will keep improving marker content on Wikidata, and that the interlinked marker information will be useful for researchers all over the world.</p>
 <h1 id="acknowledgements">Acknowledgements</h1>
-<p>This work has been done within the scope of a slightly larger ongoing project in a collaboration with João Vitor Ferreira Cavalcante available at https://github.com/jvfe/wikidata_panglaodb/.</p>
+<p>This work has been done within the scope of a slightly larger ongoing project (<a href="https://github.com/jvfe/wikidata_panglaodb">https://github.com/jvfe/wikidata_panglaodb</a>) in a collaboration with João Vitor Ferreira Cavalcante.</p>
 <p>This work has been supported by grant #2019/26284-1, São Paulo Research Foundation (FAPESP).</p>
 <h2 class="page_break_before" id="references">References</h2>
 <!-- Explicitly insert bibliography here -->
