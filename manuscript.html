@@ -45,9 +45,9 @@
   <meta name="citation_fulltext_html_url" content="https://lubianat.github.io/semantic_web_course_report/" />
   <meta name="citation_pdf_url" content="https://lubianat.github.io/semantic_web_course_report/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/semantic_web_course_report/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/semantic_web_course_report/v/3dedc0985b6a66f27c7732a51b51a68afa77f56a/" />
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/semantic_web_course_report/v/3dedc0985b6a66f27c7732a51b51a68afa77f56a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/semantic_web_course_report/v/3dedc0985b6a66f27c7732a51b51a68afa77f56a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/semantic_web_course_report/v/19bdb988dab51b9ee3c8d49f82f1e9322cbcb53b/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/semantic_web_course_report/v/19bdb988dab51b9ee3c8d49f82f1e9322cbcb53b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/semantic_web_course_report/v/19bdb988dab51b9ee3c8d49f82f1e9322cbcb53b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://lubianat.github.io/semantic_web_course_report/v/3dedc0985b6a66f27c7732a51b51a68afa77f56a/">permalink</a>)
+(<a href="https://lubianat.github.io/semantic_web_course_report/v/19bdb988dab51b9ee3c8d49f82f1e9322cbcb53b/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/lubianat/semantic_web_course_report/tree/3dedc0985b6a66f27c7732a51b51a68afa77f56a">lubianat/semantic_web_course_report@3dedc09</a>
+from <a href="https://github.com/lubianat/semantic_web_course_report/tree/19bdb988dab51b9ee3c8d49f82f1e9322cbcb53b">lubianat/semantic_web_course_report@19bdb98</a>
 on December 7, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -274,6 +274,15 @@ Some cell types are marked by absence of expression of genes/proteins/protein ex
 <h1 id="results-of-the-integration">Results of the integration</h1>
 <p>As explained in the method session</p>
 <h2 id="sparql-query-for-cell-types-related-to-neurogenesis">SPARQL query for cell types related to neurogenesis</h2>
+<p>The integration with Wikidata enables SPARQL queries.</p>
+<div class="is-hidden" id="three-tab-content">
+<pre><code>    &lt;&lt;h5 class=&quot;title is-5&quot; style=&quot;text-align:center;&quot;&gt; Query for cell types related to neurogenesis &lt;/h5&gt;
+    &lt;div class=&quot;columns is-centered&quot;
+        &lt;p style=&quot;text-align: center&quot;&gt;
+            &lt;iframe width=92% height=&quot;500&quot; src=&quot;https://query.wikidata.org/embed.html#SELECT%20%3FgeneLabel%20%3FcellTypeLabel%0AWHERE%20%0A%7B%0A%20%20%3Fprotein%20wdt%3AP682%20wd%3AQ1456827.%20%23%20protein%20molecular%20process%20neurogenesis%0A%20%20%3Fprotein%20wdt%3AP702%20%3Fgene.%20%20%20%20%20%20%20%23%20protein%20encoded%20by%20gene%0A%20%20%0A%20%20%7B%3Fgene%20wdt%3AP31%20wd%3AQ277338.%7D%20%20%20%20%23%20gene%20is%20an%20instance%20of%20a%20pseudogene%20%0A%20%20UNION%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20or%0A%20%20%7B%3Fgene%20wdt%3AP31%20wd%3AQ7187.%7D%20%20%20%20%20%20%23%20gene%20is%20an%20instance%20of%20a%20gene%0A%20%20%3Fgene%20wdt%3AP703%20wd%3AQ15978631.%20%20%20%23%20gene%20is%20found%20in%20taxon%20Homo%20sapiens%0A%20%20%0A%20%20%3FcellType%20wdt%3AP8872%20%3Fgene.%20%20%20%20%20%23%20cell%20type%20has%20marker%20gene%0A%20%20%0A%20%20%3FcellType%20rdfs%3Alabel%20%3FcellTypeLabel.%0A%20%20%3Fgene%20%20%20rdfs%3Alabel%20%3FgeneLabel.%0A%0A%0A%20%20FILTER%28LANG%28%3FcellTypeLabel%29%20%3D%20%22en%22%29%0A%20%20FILTER%28LANG%28%3FgeneLabel%29%20%3D%20%22en%22%29%0A%0A%7D&quot;&gt;&lt;/iframe&gt;
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;</code></pre>
 <p>Linking biological with Wikidata allows out-of-the-box integrative SPARQL queries, as many biomedical ontologies and datasets have been already integrated to Wikidata, and are available in Wikidata’s graph. Besides the well-known advantages of having data linked to the Linked Open Data cloud, the Wikidata integration provides user-friendly interfaces for the data. That includes both navigable html pages of classes and properties (e.g. https://www.wikidata.org/wiki/Q67801129) as well as an SPARQL Query Service with user-friendly modifications to ease queries for beginners (https://query.wikidata.org/) with helper pages for learning SPARQL (https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial) or even requesting queries (https://www.wikidata.org/wiki/Wikidata:Request_a_query).</p>
 <p>In addition to user-friendly data access systems, Wikidata makes it easy for users to contribute. This user-friendliness is specially important in the case of the biomedical sciences, where database curation is becoming increasingly challenging with the growth of scientific publications. Wikidata allows editions directly in the Graphical User Interface, which makes it acessible for domain experts with little to no experience with programming and formal ontological representations. The Wikidata community has developed wrappers for the API in web applications that further facilitate contribution, such as the Quickstatements tool (https://quickstatements.toolforge.org/#/) for general purpose statements. The python module Wikidata Integrator facilitates for python users to reconcile databases to Wikidata, and it has been used to build bots for several different biological databases [wikidata:Q87830400].</p>
 <p>This work exemplifies the power of releasing Linked Open Data via Wikidata, and provides the biomedical community with the first (to my knowledge) semantically accessible, 5-star LOD dataset. I hope that community will keep improving marker content on Wikidata, and that the interlinked marker information will be useful for researchers all over the world.</p>
