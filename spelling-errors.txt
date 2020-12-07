@@ -1,13 +1,15 @@
+acessible
 Acknowledgements
 astrocyte
 Bmeldal
 Cavalcante
 CellMarker
-CellPedia
+CELLPEDIA
 contribs
 curation
 cytotoxic
 dataset
+datasets
 dowloaded
 especifically
 FAPESP
@@ -16,6 +18,7 @@ GFAP
 João
 Jupyter
 Jvcavv
+LOD
 Lubiana
 lubianat
 macromolecular
