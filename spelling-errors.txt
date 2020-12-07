@@ -4,7 +4,7 @@ astrocyte
 Bmeldal
 Cavalcante
 CellMarker
-CELLPEDIA
+CellPedia
 contribs
 curation
 cytotoxic
