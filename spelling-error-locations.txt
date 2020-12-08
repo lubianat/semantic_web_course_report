@@ -1,5 +1,4 @@
 content/02.introduction.md:3:curation
-content/02.introduction.md:3:especifically
 content/02.introduction.md:3:panglaodb
 content/02.introduction.md:3:PanglaoDB
 content/02.introduction.md:3:PanglaoDB
