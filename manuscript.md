@@ -3,8 +3,8 @@ author-meta:
 - Tiago Lubiana
 bibliography:
 - content/manual-references.json
-date-meta: '2020-12-08'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta name=\"citation_title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta property=\"og:title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta property=\"twitter:title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta name=\"dc.date\" content=\"2020-12-08\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-08\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/semantic_web_course_report/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/semantic_web_course_report/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/semantic_web_course_report/v/d779a105d209d8b95abe8481d0abd11747674ed7/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/semantic_web_course_report/v/d779a105d209d8b95abe8481d0abd11747674ed7/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/semantic_web_course_report/v/d779a105d209d8b95abe8481d0abd11747674ed7/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2020-12-09'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta name=\"citation_title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta property=\"og:title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta property=\"twitter:title\" content=\"Releasing PanglaoDB human cell-type markers to Wikidata\" />\n<meta name=\"dc.date\" content=\"2020-12-09\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-09\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of S\xE3o Paulo, S\xE3o Paulo, Brazil\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/semantic_web_course_report/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/semantic_web_course_report/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/semantic_web_course_report/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/semantic_web_course_report/v/247328fdaa74833ad7620988894ff4c3a299b997/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/semantic_web_course_report/v/247328fdaa74833ad7620988894ff4c3a299b997/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/semantic_web_course_report/v/247328fdaa74833ad7620988894ff4c3a299b997/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - cell type
 - nomenclature
@@ -24,10 +24,10 @@ title: Releasing PanglaoDB human cell-type markers to Wikidata
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/semantic_web_course_report/v/d779a105d209d8b95abe8481d0abd11747674ed7/))
+([permalink](https://lubianat.github.io/semantic_web_course_report/v/247328fdaa74833ad7620988894ff4c3a299b997/))
 was automatically generated
-from [lubianat/semantic_web_course_report@d779a10](https://github.com/lubianat/semantic_web_course_report/tree/d779a105d209d8b95abe8481d0abd11747674ed7)
-on December 8, 2020.
+from [lubianat/semantic_web_course_report@247328f](https://github.com/lubianat/semantic_web_course_report/tree/247328fdaa74833ad7620988894ff4c3a299b997)
+on December 9, 2020.
 </em></small>
 
 ## Authors
@@ -48,9 +48,11 @@ on December 8, 2020.
 ## Abstract {.page_break_before}
 
 
+PanglaoDB is an online data base of cell-type markers compiled from single-cell RNA-sequencing studies. The database is available via a Graphical User Interface and provides a csv to download. The database was published in 2019 is widely used, amassing 81 citations to date (via Google Scholar). The content, however, only reaches 3 stars in the Berners-Lee 5-star scale for Linked Open Data (LOD), as it is neither available as RDF, nor enriched with links to other semantic resources. In this work, I reconciled to Wikidata a subset of the database corresponding to the markers of human cell types. I then show that the upgrade of the data to 5-star LOD makes it amenable to SPARQL queries that provide new insights on the data. This study case displays the benefits of releasing biomedical knowledge bases as semantically-enriched, Wikidata-linked, 5 star Linked Open Data.  
 
+A live version of this document is available at <https://lubianat.github.io/semantic_web_course_report/>.
 
-# Introduction
+# Introduction 
 
 PanglaoDB [@https://panglaodb.se/index.html] [@doi:10.1093/database/baz046] is a public database that contains data and metadata on different types of cells. The types of cells are associated with marker genes, which are used to identify the classes that best fit cells observed in biomedical experiments. PanglaoDB, particularly, derives its marker genes from the curation of several single-cell RNA sequencing experience.
 
@@ -71,7 +73,22 @@ For the scope of this work, only the columns `species`, `official gene symbol` a
 
 ## Property creation on Wikidata
 
-To represent the cell-type --> marker property, I proposed a property for the Wikidata community. In Wikidata:Property proposal (<https://www.wikidata.org/wiki/Wikidata:Property_proposal/has_positive_marker>), I posted a message in 17th of November presenting the property, domain and range constraints, as well as additional comments. The html of the property proposal is reproduced below:
+To represent the cell-type marker relation, I proposed a property called `has marker` to the Wikidata community. In Wikidata:Property proposal (<https://www.wikidata.org/wiki/Wikidata:Property_proposal/has_positive_marker>), I posted a message in 17th of November presenting the property, domain and range constraints, as well as additional comments. The html of the property proposal is reproduced in the next session.
+
+The proposal was accompanied by the following motivation statement: 
+
+    "Even though the concept of a marker gene/protein is not clear cut, it is very important, and widely used in databases and scientific articles.
+
+    This property will help us to represent that a gene/protein has been reported as a marker by a credible source, and should always contain a reference.
+
+    Some markers are reported as proteins and some as genes. Some genes don`t encode proteins, and some protein markers are actually protein complexes.
+
+    The property would be inclusive to these slightly different markers.
+    Some cell types are marked by absence of expression of genes/proteins/protein expression. As these seem to be less common than positive markers (no organized databases, for example) they are left outside the value range for this property"
+
+
+### Initial proposal {.page_break_before}
+
 
 <div class="property-navibox" dir="ltr"><style data-mw-deduplicate="TemplateStyles:r1021077283">.mw-parser-output .property-navibox{background-color:#dff;border:3px solid #cddddd}.mw-parser-output .property-navibox-header{background-color:#dff;outline:3px solid #cddddd;padding:4px}.mw-parser-output .property-navibox-links{float:right;margin:0}.mw-parser-output .property-navibox-links li{display:inline;margin:0}.mw-parser-output .property-navibox-links li:after{display:inline;content:" – "}.mw-parser-output .property-navibox-links li:last-child:after{content:none}.mw-parser-output .property-navibox-main{overflow-x:auto}.mw-parser-output .property-navibox table{display:table;overflow-x:visible}.mw-parser-output .property-navibox-main tr{vertical-align:text-top}.mw-parser-output .property-navibox-main th{width:20%}.mw-parser-output .property-navibox[dir="ltr"] .property-navibox-main th{text-align:left}.mw-parser-output .property-navibox[dir="rtl"] .property-navibox-main th{text-align:right}</style><div class="property-navibox-header"><div><span style="background-color:#0C0;">  </span> <span id="P8872"></span>Done: <a href="/wiki/Property:P8872" title="Property:P8872">has marker</a> <small>(P8872)</small> (<a href="/wiki/Property_talk:P8872" title="Property talk:P8872">Talk and documentation</a>)</div></div><div class="property-navibox-main"><table><tbody><tr><th>Description</th><td><span lang="en">a gene or a protein published as a marker of a species-specific cell type</span></td></tr><tr><th>Represents</th><td><a href="/wiki/Q2776413" title="Q2776413">Marker gene <small>(Q2776413)</small></a> (partially)</td></tr><tr><th>Data type</th><td><a href="/wiki/Special:MyLanguage/Help:Data_type#wikibase-item" title="Special:MyLanguage/Help:Data type">Item</a></td></tr><tr><th>Domain</th><td>?subject <a href="/wiki/Property:P31" title="Property:P31">instance of <small>(P31)</small></a> <a href="/wiki/Q189118" title="Q189118">cell type <small>(Q189118)</small></a> . 
 <p>?subject <a href="/wiki/Property:P703" title="Property:P703">found in taxon <small>(P703)</small></a> ?taxon . 
@@ -97,15 +114,6 @@ UNION {?object <a href="/wiki/Property:P31" title="Property:P31">instance of <sm
 </p>
 - <a rel="nofollow" class="external text" href="https://stemcellinformatics.org/">CellPedia-SHOGoiN</a> marker database: <a href="/wiki/Q35482351" title="Q35482351">CELLPEDIA: a repository for human cell information for cell studies and differentiation analyses. <small>(Q35482351)</small></a></td></tr><tr><th>Planned use</th><td>Reconcile knowledge from the PanglaoDB marker database to Wikidata. In the future, expand to other trusted sources of cell type marker information.</td></tr></tbody></table></div></div>
 
-
-It was accompanied by the following motivation statement: 
-
-"Even though the concept of a marker gene/protein is not clear cut, it is very important, and widely used in databases and scientific articles.
-This property will help us to represent that a gene/protein has been reported as a marker by a credible source, and should always contain a reference.
-Some markers are reported as proteins and some as genes. Some genes don`t encode proteins, and some protein markers are actually protein complexes.
-The property would be inclusive to these slightly different markers.
-Some cell types are marked by absence of expression of genes/proteins/protein expression. As these seem to be less common than positive markers (no organized databases, for example) they are left outside the value range for this property"
-
 In the same day, the property received 3 "Support" tags by different members of the community:
 
 <ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Symbol_support_vote.svg/15px-Symbol_support_vote.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Symbol_support_vote.svg/23px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Symbol_support_vote.svg/30px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185">&nbsp;<b>Support</b> — <a href="/wiki/User:Jvcavv" title="User:Jvcavv">Jvcavv</a> (<a href="/wiki/User_talk:Jvcavv" title="User talk:Jvcavv"><span class="signature-talk">talk</span></a>) 14:51, 17 November 2020 (UTC)</li>
@@ -120,17 +128,16 @@ As there were 3 approvals and no objections, 10 days later one Wikidata Property
 
 Different from property creation, class creation on Wikidata does not require community approval, and any user can create new classes and add statements. 
 
-Species-neutral cell types were already mostly present on Wikidata. Human-specific cell types were created for each human-specific cell type mentioned in PanglaoDB. Class labels and "subclass of" statements (<https://www.wikidata.org/wiki/Q21514624>) were added to a spreadsheet and uploaded to Wikidata via the batch edition tool Quickstatements (<https://quickstatements.toolforge.org/#/>)
+Species-neutral cell types were already mostly present on Wikidata. Human-specific cell types were created for each human-specific cell type mentioned in PanglaoDB. Class labels and "subclass of" statements (<https://www.wikidata.org/wiki/Q21514624>) were added to a spreadsheet and uploaded to Wikidata via the batch edition tool Quickstatements (<https://quickstatements.toolforge.org/#/>).
 
 ## Integration to Wikidata 
 
 The reconciled dataset was uploaded to Wikidata via the Wikidata Integrator python package (<https://github.com/SuLab/WikidataIntegrator>), a wrapper for the Wikidata Application Programming Interface. The details of the integration can be seen in the accompanying Jupyter notebook. 
 
 ## Access to reconciled data
-
 ### Wikidata dumps
 
-Wikidata provides regular dumps in a variety of formats, including RDF dumps: <https://www.wikidata.org/wiki/Wikidata:Database_download>. It is possible to also download partial dumps of the database with reduced size (ex: <https://wdumps.toolforge.org/dump/987> for all cell types with the has_marker property)   
+Wikidata provides regular dumps in a variety of formats, including RDF dumps: <https://www.wikidata.org/wiki/Wikidata:Database_download>. It is possible to also download partial dumps of the database with reduced size (ex: <https://wdumps.toolforge.org/dump/987> for all cell types with the `has_marker` property).   
 
 ### SPARQL queries
 
@@ -145,10 +152,13 @@ As explained in the method session
 ## SPARQL query for cell types related to neurogenesis
 
 Now that the PanglaoDB is released as Linked Open Data, we can make queries that were not possible before.Thanks to other reconciliation projects, Wikidata contains already information about genes, including their relations to Gene Ontology terms.
-The PanglaoDB integration to the Wikidata ecosystem allows us to ask questions like:
+The PanglaoDB integration to the Wikidata ecosystem allows us to ask a variety of questions. The next section headers exemplify such questions.
 
-- "Which human cell types are related to neurogenesis via their markers?"
+### "Which human cell types are related to neurogenesis via their markers?"
 
+As expected, the query below retrieved a series of neuron types, such as "[human purkinje neuron](https://www.wikidata.org/wiki/Q101404913)" and "[human cajal-retzius cell](https://www.wikidata.org/wiki/Q101405091)." It did, however, also retrieved non-neural cell types such as the "[human loop of henle cell](https://www.wikidata.org/wiki/Q101405109), a kidney cell type, and "[human osteoblast](https://www.wikidata.org/wiki/Q101405044). These seemingly unrelated cell types markedly express genes that are envolved in neurogenesis, but that does not mean that they are envolved with this process. This reinforces the idea that one needs to be careful when using curated pathways to enrich one's analysis, as false positives abund. 
+
+The molecular process that gene products take part depends on the cell type. The SPARQL query below enables us to seamlessly compare  Gene Ontology processes with cell marker data, providing a fruitful sandbox for generation of hypothesis and exploration of the biomedical knowledge landscape.
 ```
 SELECT ?geneLabel ?cellTypeLabel
 WHERE 
@@ -180,9 +190,14 @@ WHERE
 </div>
 </div>
 
-- "Which cell types express markers associated to Parkinson`s disease?"
+### "Which cell types express markers associated to Parkinson`s disease?"
+
+Besides integration with Gene Ontology, Wikidata reconciliation makes it possible to complement the marker gene info on PanglaoDB with information about diseases. This integration is of biomedical interest, as there is a quest for detailing of mechanisms that link genetic associations and the diseases themselves. 
+
+"Disease genes" are often compiled from Genomic Wide Association Studies, which look for sequence variation in the DNA. These studies are commonly blind to the cell types related to the pathophysiology of the disease. In the query below, we can see cell types that are marked by genes genetically associated with Parkinson's disease. Even considering the false positives (as per the previously mentioned multifunctional nature of genes) this kind of overlook can aid domain experts to come up with novel hypothesis. 
 
 ```
+
 SELECT ?cellTypeLabel ?geneLabel ?diseaseLabel 
 WHERE 
 {
@@ -208,7 +223,10 @@ WHERE
 </div>
 </div>
 
-- Which diseases are associated with the markers of pancreatic beta cells?
+### Which diseases are associated with the markers of pancreatic beta cells?
+
+We can check the cell-type to disease relation in both ways. Scientists that study specific cell types (and not necessarily specific diseases) might be interested in knowing which diseases are related to their cell type of interest. In the sample query below, I looked for the diseases linked to the [human pancreatic beta cells](https://www.wikidata.org/wiki/Q101405087), which play an important role in controlling blood sugar levels. Reassuringly, top hits associated with markers included
+[obesity](https://www.wikidata.org/wiki/Q12174) and [type-2 diabetes](https://www.wikidata.org/wiki/Q3025883). Other diseases retrieved, such as [Huntington disease-like 2](https://www.wikidata.org/wiki/Q30990046) don't bear a clear link with sugar function, and might merit a further look by a domain expert to see if there are any hypothesis worth pursuing.
 
 ```
 SELECT ?cellTypeLabel ?diseaseLabel 
